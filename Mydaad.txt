@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hdsgfds fgdfb sdgfdf
 dfsdhfhdf
+=======
+hdsgfds fgdfb sdgfdf
+>>>>>>> 86a6e6fb894eb32b62d74e2505bb51a138d03cef
